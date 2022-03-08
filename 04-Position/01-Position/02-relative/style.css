@@ -1,6 +1,11 @@
 
 .relative {
-    /* zde dopiš relativní pozicování prostředniho obdélníku  */
+    position:relative;
+    left: 600px;
+    bottom:200px;
+}
 
-
+.relative:hover{
+    right:200px;
+    top:90px;
 }
